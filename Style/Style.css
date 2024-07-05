@@ -1,0 +1,21 @@
+.style-1
+  {
+    color: #000a4f;
+    text-shadow: 0px 1px gray, 1px 0px gray, 1px 1px gray, 0px 0px gray, -1px 0px gray, 0px -1px gray, -1px -1px gray;
+  }
+a:link {color: rgba(151, 234, 255, 0.663)}
+li:hover, a:hover
+  {
+    color: rgb(255, 104, 104);
+  }
+p 
+  {
+    text-indent: 1em;
+    max-width: 900px;
+  }
+body
+  {
+    background-color: rgba(30, 30, 30, 0.933);
+    color:white;
+  }
+  a{display: block};
