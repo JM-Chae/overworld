@@ -6,19 +6,6 @@ body
   color:white;
 }
 
-#box
-{
-  padding: 30px 30px 30px 30px;
-  background-color: rgb(32, 32, 32);
-  border-radius: 2em;
-  min-width: 500px;
-}
-#box2
-{
-  margin: 0 1em 0 1em;
-  padding: 10px 10px 10px 10px;
-  background-color: rgb(32, 32, 32);
-  border-radius: 2em;
 }
 
 .style-1
@@ -27,20 +14,9 @@ body
     text-shadow: 0px 1px gray, 1px 0px gray, 1px 1px gray, 0px 0px gray, -1px 0px gray, 0px -1px gray, -1px -1px gray;
   }
 
-  #title
-{
-  margin: 0 0 20px 0;
-}
+
 a:link {color: rgba(151, 234, 255, 0.663)}
 
-ul
-{
-  padding: 0em 2em 0em 2em;
-}
-li
-{
-  min-width:max-content;
-}
 li:hover, a:hover
   {
     color: rgb(255, 104, 104);
